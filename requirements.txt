@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ aiofiles
+requests
+python-dotenv
+chromadb
+google-generativeai
+livekit-agents[all]
+assemblyai
+pydantic
+python-multipart
