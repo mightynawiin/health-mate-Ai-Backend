@@ -163,15 +163,15 @@ agent = Agent(
 -----
 ## 👥 Team
 
-| **👨‍💻 Manoj Kumar Pendem**<br>[GitHub](https://github.com/Manojkumar2806) | **👨‍💻 Naveen Bathini**<br>[GitHub](https://github.com/mightynawiin) |
+ | **👨‍💻 Naveen Bathini**<br>[GitHub](https://github.com/mightynawiin) |
 |--------------------------------------|--------------------------------------|
 | Frontend & integration specialist, focused on creating seamless and accessible user experiences. | Prototype & architecture lead, passionate about building impactful health AI solutions. |
 
 
 ## 🤝 Let’s Connect!
 
-- 🛠️ [GitHub](https://github.com/Manojkumar2806) – Explore the code, file feedback, or contribute ideas  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-pendem/) – Let’s connect professionally  
+- 🛠️ [GitHub](https://github.com/mightynawiin) – Explore the code, file feedback, or contribute ideas  
+- 🔗 [LinkedIn](www.linkedin.com/in/naveen-bathini-b227662a3) – Let’s connect professionally  
 - 🌍 Collaborations: Open to NGOs, health orgs, and language localization partners
 
 ---
